@@ -120,33 +120,6 @@ fast-lane/
 └── package.json
 ```
 
-## Placeholder Images
-
-You will need to add images for the site. Here are recommended sources for **free, high-quality** placeholder images:
-
-### Where to Get Images
-
-| Image Need | Recommended Source | Search Terms |
-|---|---|---|
-| **Hero slideshow backgrounds** | [Unsplash](https://unsplash.com) | "business strategy", "corporate meeting", "office teamwork" |
-| **Services section** | [Pexels](https://pexels.com) | "business growth", "marketing strategy", "data analytics" |
-| **About Us / Team** | [Unsplash](https://unsplash.com) | "diverse business team", "professional meeting" |
-| **Blog article headers** | [Unsplash](https://unsplash.com) | "customer engagement", "brand building", "marketing" |
-| **Client logos (placeholder)** | [SVGRepo](https://svgrepo.com) | Generic company logo SVGs |
-| **Testimonial avatars** | [UI Faces](https://uifaces.co) or [RandomUser](https://randomuser.me) | Professional headshots |
-| **Icons** | [Lucide](https://lucide.dev) | Already included in the project |
-
-### ACTION REQUIRED: Add Your Images
-1. Download images from the sources above
-2. Place them in `fast-lane/public/images/`
-3. Recommended image sizes:
-   - Hero slides: **1920x1080px** (3-4 images)
-   - Service images: **800x600px**
-   - Blog headers: **1200x630px**
-   - Team/About: **800x600px**
-   - Client logos: **200x80px** (SVG preferred)
-   - Testimonial avatars: **100x100px**
-
 ## Theme
 
 The site includes a **light/dark theme toggle**:
